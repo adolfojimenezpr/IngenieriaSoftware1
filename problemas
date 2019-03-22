@@ -1,0 +1,6 @@
+1. DATE casteos, obetener hora actual. 
+2. Cache de los controladores
+3. Copia de seguridad BBDD
+4. Interfaz Post-Venta
+5. Listar registros de transacciones.
+6. MEtodo modificar meter id en atributos y no por parametro.
